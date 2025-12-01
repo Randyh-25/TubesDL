@@ -13,7 +13,7 @@ Aplikasi Web Pengenalan Wajah (Face Recognition) yang dibangun menggunakan pende
 | :--- | :--- |
 | **Muhammad Riveldo Hermawan Putra** | 122140037 |
 | **Joshia Fernandes Sectio Purba** | 122140170 |
-| **Randy Hendriyawan** | 122140170 |
+| **Randy Hendriyawan** | 122140171 |
 
 ---
 
